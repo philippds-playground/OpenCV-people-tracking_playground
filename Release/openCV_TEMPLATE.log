@@ -1,0 +1,31 @@
+﻿  blob_detection_00.cpp
+blob_detection_00.cpp(10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  blob_detection_01.cpp
+blob_detection_01.cpp(3): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
+  reference_source.cpp
+reference_source.cpp(1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+reference_source.cpp(1): error C2059: syntax error: ':'
+  Source3.cpp
+Source3.cpp(8): fatal error C1083: Cannot open include file: 'opencv2/imgcodecs.hpp': No such file or directory
+  try.cpp
+try.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  webcam_stream_blob_detection.cpp
+webcam_stream_blob_detection.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
+  webcam_stream_multi_object_tracking_00.cpp
+webcam_stream_multi_object_tracking_00.cpp(10): fatal error C1083: Cannot open include file: 'opencv2/core/utility.hpp': No such file or directory
+  webcam_stream_object_detection_example_00.cpp
+webcam_stream_object_detection_example_00.cpp(5): fatal error C1083: Cannot open include file: 'opencv2/imgproc.hpp': No such file or directory
+  webcam_object_tracking_working.cpp
+webcam_object_tracking_working.cpp(4): fatal error C1083: Cannot open include file: 'opencv2/highgui/highgui.hpp': No such file or directory
+  webcam_stream_object_detection_example_02.cpp
+webcam_stream_object_detection_example_02.cpp(3): fatal error C1083: Cannot open include file: 'opencv2/objdetect.hpp': No such file or directory
+  webcam_stream_object_detection_example_03.cpp
+webcam_stream_object_detection_example_03.cpp(1): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  webcam_multi_target_tracking_working.cpp
+webcam_multi_target_tracking_working.cpp(5): fatal error C1083: Cannot open include file: 'opencv2/objdetect.hpp': No such file or directory
+  webcam_stream_pedestrian_detection_01.cpp
+webcam_stream_pedestrian_detection_01.cpp(3): fatal error C1083: Cannot open include file: 'opencv2/highgui.hpp': No such file or directory
+  webcam_stream_pedestrian_detection_02.cpp
+webcam_stream_pedestrian_detection_02.cpp(12): fatal error C1083: Cannot open include file: 'opencv2/core.hpp': No such file or directory
+  webcam_stream_pedestrian_detection_03_working.cpp
+webcam_stream_pedestrian_detection_03_working.cpp(7): fatal error C1083: Cannot open include file: 'opencv2/objdetect.hpp': No such file or directory

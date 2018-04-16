@@ -1,0 +1,10 @@
+﻿  c4-pedestrian-detector_WORKING.cpp
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(782): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(786): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(815): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(826): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(885): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(1068): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(1134): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\philipp.s\documents\dev\github\opencv_template\opencv_template\c4-pedestrian-detector_working.cpp(1136): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  openCV_TEMPLATE.vcxproj -> C:\Users\Philipp.S\Documents\dev\github\openCV_TEMPLATE\x64\Debug\openCV_TEMPLATE.exe

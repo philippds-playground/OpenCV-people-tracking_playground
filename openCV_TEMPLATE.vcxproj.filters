@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\C4">
+      <UniqueIdentifier>{db561fe8-b9e0-4402-bcd1-814ac26a957c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Experimental">
+      <UniqueIdentifier>{031071ee-390c-4799-b685-fd019fe58c14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Experimental\working">
+      <UniqueIdentifier>{ba6c022c-2e32-465c-a3ba-b65aa4b1c73c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Experimental\notworking">
+      <UniqueIdentifier>{2ebee927-1a02-407f-bcae-680e1377efeb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\C4\original_C4">
+      <UniqueIdentifier>{07a9da52-3223-4c20-8257-1f1df96c7928}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Tutorials">
+      <UniqueIdentifier>{4379c8b6-f35c-4606-84b6-af0090371191}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files\C4\original_C4</Filter>
+    </ClCompile>
+    <ClCompile Include="Pedestrian_ICRA.cpp">
+      <Filter>Source Files\C4\original_C4</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_pedestrian_detection_03_working.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_multi_target_tracking_working.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_object_tracking_working.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="try.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_blob_detection.cpp">
+      <Filter>Source Files\Experimental\notworking</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_multi_object_tracking_00.cpp">
+      <Filter>Source Files\Experimental\notworking</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_object_detection_example_02.cpp">
+      <Filter>Source Files\Experimental\notworking</Filter>
+    </ClCompile>
+    <ClCompile Include="c4-pedestrian-detector_WORKING.cpp">
+      <Filter>Source Files\C4</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_pedestrian_detection_videoINPUT_WORKING.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_pedestrian_detection_01_WORKING.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_object_detection_withINPUT_WORKING.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="webcam_stream_object_detection_byColor_00_WORKING.cpp">
+      <Filter>Source Files\Experimental\working</Filter>
+    </ClCompile>
+    <ClCompile Include="blob_detection_00.cpp">
+      <Filter>Source Files\Experimental</Filter>
+    </ClCompile>
+    <ClCompile Include="blob_detection_01.cpp">
+      <Filter>Source Files\Experimental</Filter>
+    </ClCompile>
+    <ClCompile Include="reference_source.cpp">
+      <Filter>Source Files\Experimental</Filter>
+    </ClCompile>
+    <ClCompile Include="camera_calibration_00.cpp">
+      <Filter>Source Files\Tutorials</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntImage.h">
+      <Filter>Source Files\C4\original_C4</Filter>
+    </ClInclude>
+    <ClInclude Include="mdarray.h">
+      <Filter>Source Files\C4\original_C4</Filter>
+    </ClInclude>
+    <ClInclude Include="Pedestrian.h">
+      <Filter>Source Files\C4\original_C4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
