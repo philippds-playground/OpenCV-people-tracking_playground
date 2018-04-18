@@ -84,7 +84,7 @@
     <ClCompile Include="reference_source.cpp">
       <Filter>Source Files\Experimental</Filter>
     </ClCompile>
-    <ClCompile Include="camera_calibration_00.cpp">
+    <ClCompile Include="camera_calibration_15_Aruco_Markers.cpp">
       <Filter>Source Files\Tutorials</Filter>
     </ClCompile>
   </ItemGroup>
